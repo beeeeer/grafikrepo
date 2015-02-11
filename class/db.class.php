@@ -3,7 +3,10 @@
 class DBconnect {
 
 
-
+protect $dbhost;
+protect $root;
+protect $pass;
+protect $db;
 
 
 
