@@ -1,0 +1,2 @@
+# grafikrepo
+repozytorium skryptu grafikowego
